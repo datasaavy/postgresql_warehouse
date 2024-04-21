@@ -1,0 +1,1 @@
+select * from elt_dbo.sellers
